@@ -1,12 +1,12 @@
-# Bienvenidos al repositorio de MÈtodos NumÈricos!
+# Bienvenidos al repositorio de M√©todos Num√©ricos!
 
-Bienvenidos al repositorio principal de **MÈtodos NumÈricos**, dentro de este repositorio, podr·s encontrar los distintos cÛdigos hechos en la clase de mÈtodos numÈricos.
+Bienvenidos al repositorio principal de **M√©todos Num√©ricos**, dentro de este repositorio, podr√°s encontrar los distintos c√≥digos hechos en la clase de m√©todos num√©ricos.
 
-Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como este, donde podr·s encontrar la descripciÛn de cada mÈtodo. Adem·s, tenemos las carpetas de **Katas**, donde tendr·s los cÛdigos realizados a manera de pr·ctica para aprender/reforzar cosas en python.
+Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como este, donde podr√°s encontrar la descripci√≥n de cada m√©todo. Adem√°s, tenemos las carpetas de **Katas**, donde tendr√°s los c√≥digos realizados a manera de pr√°ctica para aprender/reforzar cosas en python.
 
 
 # Tabla de Contenidos:
-1.-Katas:
+1.-[Katas](../Metodos-Numericos/master/Katas):
 -
 - Kata1
 - Kata2
