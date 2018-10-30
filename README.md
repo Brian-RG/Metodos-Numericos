@@ -6,19 +6,19 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
 
 
 # Tabla de Contenidos:
-1.-[Katas](../../tree/master/Katas):
+1.-[Katas:](../../tree/master/Katas)
 -
 - [Kata1](../../tree/master/Katas/Kata1)
 - [Kata2](../../tree/master/Katas/Kata2)
-- [Kata3](../../tree/master/Katas/Kata3)
+- [Kata3](../../tree/master/Katas/Kata5)
 - [Kata6](../../tree/master/Katas/Kata6)
 
-2.-Metodos-Numericos:
+2.-[Metodos-Numericos:](../../tree/master/Metodos-Numericos)
 - 
-- Metodo de la Biseccion
-- Metodo de la falsa posicion
-- Metodo de Newton-Raphson
-- Metodo Grafico
+- [Metodo de la Biseccion](../../tree/master/Metodos-Numericos)
+- [Metodo de la falsa posicion](../../tree/master/Metodos-Numericos)
+- [Metodo de Newton-Raphson](../../tree/master/Metodos-Numericos)
+- [Metodo Grafico](../../tree/master/Metodos-Numericos)
 
 3.-Python-codes:
 -
