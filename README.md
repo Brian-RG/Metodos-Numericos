@@ -6,7 +6,7 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
 
 
 # Tabla de Contenidos:
-1.-[Katas](../Metodos-Numericos/master/Katas):
+1.-[Katas](../Katas):
 -
 - Kata1
 - Kata2
