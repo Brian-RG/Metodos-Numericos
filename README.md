@@ -6,7 +6,7 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
 
 
 # Tabla de Contenidos:
-1.-[Katas](../blob/Master/Katas):
+1.-[Katas](../):
 -
 - Kata1
 - Kata2
