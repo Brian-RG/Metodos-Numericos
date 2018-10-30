@@ -20,7 +20,7 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
 - [Metodo de Newton-Raphson](../../tree/master/Metodos-Numericos/Metodo%20de%20Newton-Raphson)
 - [Metodo Grafico](../../tree/master/Metodos-Numericos/Metodo%20Grafico)
 
-3.-Python-codes:
+3.-[Python-codes:](../../tree/master/python-codes)
 -
-- Lambda
-- List-Comprehension
+- [Lambda](../../tree/master/python-codes/lambda)
+- [List-Comprehension](../../tree/master/python-codes/List-Comprehension)
