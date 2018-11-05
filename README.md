@@ -15,10 +15,10 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
 
 2.-[Metodos-Numericos:](../../tree/master/Metodos-Numericos)
 - 
-- [Metodo de la Biseccion](../../tree/master/Metodos-Numericos/Metodo%20de%20la%20Biseccion)
-- [Metodo de la falsa posicion](../../tree/master/Metodos-Numericos/Metodo%20de%20la%20falsa%20posicion)
-- [Metodo de Newton-Raphson](../../tree/master/Metodos-Numericos/Metodo%20de%20Newton-Raphson)
-- [Metodo Grafico](../../tree/master/Metodos-Numericos/Metodo%20Grafico)
+- [Metodo de la Biseccion](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20la%20Biseccion)
+- [Metodo de la falsa posicion](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20la%20falsa%20posicion)
+- [Metodo de Newton-Raphson](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20Newton-Raphson)
+- [Metodo Grafico](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20Grafico)
 
 3.-[Python-codes:](../../tree/master/python-codes)
 -
