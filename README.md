@@ -14,13 +14,26 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
 - [Kata6](../../tree/master/Katas/Kata6)
 
 2.-[Metodos-Numericos:](../../tree/master/Metodos-Numericos)
-- 
+-
+
+ 2.1. Primer Parcial:
+ 
 - [Metodo de la Biseccion](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20la%20Biseccion)
 - [Metodo de la falsa posicion](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20la%20falsa%20posicion)
 - [Metodo de Newton-Raphson](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20Newton-Raphson)
 - [Metodo Grafico](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20Grafico)
+ 
+ 2.2. 
+ 
+ - [Matrices](../../tree/master/Metodos-Numerios/Segundo%20Parcial/Matrices)
+ 
+ 
+ 
+ 2.3. 
+
 
 3.-[Python-codes:](../../tree/master/python-codes)
 -
 - [Lambda](../../tree/master/python-codes/lambda)
 - [List-Comprehension](../../tree/master/python-codes/List-Comprehension)
+
