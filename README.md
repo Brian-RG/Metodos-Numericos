@@ -23,9 +23,9 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
 - [Metodo de Newton-Raphson](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20Newton-Raphson)
 - [Metodo Grafico](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20Grafico)
  
- 2.2. 
+ 2.2. Segundo Parcial:
  
- - [Matrices](../../tree/master/Metodos-Numerios/Segundo%20Parcial/Matrices)
+ - [Matrices](../../tree/master/Metodos-Numericos/Segundo%20Parcial/Matrices)
  
  
  
