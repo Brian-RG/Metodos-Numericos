@@ -16,7 +16,7 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
 2.-[Metodos-Numericos:](../../tree/master/Metodos-Numericos)
 -
 
- 2.1. Primer Parcial:
+ 2.1. [Primer Parcial:](../../tree/master/Metodos-Numericos/Primer%20Parcial/)
  
 - [Convergencia y Divergencia](../../tree/master/Metodos-Numericos/Primer%20Parcial/Convergencia%20y%20Divergencia)
 - [Metodo Grafico](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20Grafico)
@@ -27,7 +27,7 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
 - [Metodo de Newton-Raphson](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20Newton-Raphson)
 
  
- 2.2. Segundo Parcial:
+ 2.2. [Segundo Parcial:](../../tree/master/Metodos-Numericos/Segundo%20Parcial/)
  
  - [Matrices](../../tree/master/Metodos-Numericos/Segundo%20Parcial/Matrices)
  - [Eliminación Gaussiana](../../tree/master/Metodos-Numericos/Segundo%20Parcial/Eliminacion%20Gaussiana)
@@ -37,7 +37,7 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
  
  
  
- 2.3. Tercer Parcial:
+ 2.3. [Tercer Parcial:](../../tree/master/Metodos-Numericos/Tercer%20Parcial/)
  
  - [Regresion Polinomial](../../tree/master/Metodos-Numericos/Tercer%20Parcial/Regresion%20Polinomial)
  - [Interpolacion Polinomial](../../tree/master/Metodos-Numericos/Tercer%20Parcial/Interpolacion%20Polinomial)
