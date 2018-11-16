@@ -37,8 +37,14 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
  
  
  
- 2.3. 
-
+ 2.3. Tercer Parcial:
+ 
+ - [Regresion Polinomial](../../tree/master/Metodos-Numericos/Tercer%20Parcial/)
+ - [Interpolacion Polinomial]
+ - [Metodo de Lagrange]
+ - [Ecuaciones Diferenciales - Euler]
+ - [Ecuaciones Diferenciales - Runge-Kutta]
+ - [Ecuaciones Diferenciales de orden superior]
 
 3.-[Python-codes:](../../tree/master/python-codes)
 -
