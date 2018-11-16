@@ -44,7 +44,7 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
  - [Metodo de Lagrange](../../tree/master/Metodos-Numericos/Tercer%20Parcial/Metodo%20de%20Lagrange)
  - [Ecuaciones Diferenciales - Euler](../../tree/master/Metodos-Numericos/Tercer%20Parcial/Ecuaciones%20Diferenciales%20-%20Euler)
  - [Ecuaciones Diferenciales - Runge-Kutta](../../tree/master/Metodos-Numericos/Tercer%20Parcial/Ecuaciones%20Diferenciales-Runge-Kutta)
- - [Ecuaciones Diferenciales de orden superior](../../tree/master/Metodos-Numericos/Tercer%20Parcial/Ecuaciones%20Diferenciales%20de%orden%superior)
+ - [Ecuaciones Diferenciales de orden superior](../../tree/master/Metodos-Numericos/Tercer%20Parcial/Ecuaciones%20Diferenciales%20de%20orden%20superior)
 
 3.-[Python-codes:](../../tree/master/python-codes)
 -
