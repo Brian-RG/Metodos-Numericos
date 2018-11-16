@@ -30,6 +30,10 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
  2.2. Segundo Parcial:
  
  - [Matrices](../../tree/master/Metodos-Numericos/Segundo%20Parcial/Matrices)
+ - [Eliminación Gaussiana](../../tree/master/Metodos-Numericos/Segundo%20Parcial/Eliminacion%20Gaussiana)
+ - [Factorización LU](../../tree/master/Metodos-Numericos/Segundo%20Parcial/Factorizacion%20LU)
+ - [Gauss-Seidel](../../tree/master/Metodos-Numericos/Segundo%20Parcial/Gauss-Seidel)
+ - [SE Newton-Raphson](../../tree/master/Metodos-Numericos/Segundo%20Parcial/SE%20Newton-Raphson) 
  
  
  
