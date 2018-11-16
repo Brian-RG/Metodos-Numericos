@@ -19,12 +19,13 @@ Lo tenemos divididos por subcarpetas, donde cada carpeta tiene un Readme como es
  2.1. Primer Parcial:
  
 - [Convergencia y Divergencia](../../tree/master/Metodos-Numericos/Primer%20Parcial/Convergencia%20y%20Divergencia)
-- [Metodo de Bairstow](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20Bairstow)
-- [Metodo del Punto Fijo](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20del%20punto%20fijo)
-- [Metodo de la Biseccion](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20la%20Biseccion)
-- [Metodo de la falsa posicion](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20la%20falsa%20posicion)
-- [Metodo de Newton-Raphson](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20Newton-Raphson)
 - [Metodo Grafico](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20Grafico)
+- [Metodo del Punto Fijo](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20del%20punto%20fijo)
+- [Metodo de la falsa posicion](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20la%20falsa%20posicion)
+- [Metodo de la Biseccion](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20la%20Biseccion)
+- [Metodo de Bairstow](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20Bairstow)
+- [Metodo de Newton-Raphson](../../tree/master/Metodos-Numericos/Primer%20Parcial/Metodo%20de%20Newton-Raphson)
+
  
  2.2. Segundo Parcial:
  
